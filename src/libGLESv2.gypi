@@ -563,6 +563,7 @@
             'libANGLE/renderer/d3d/d3d11/shaders/compiled/passthroughrgba3d11ps.h',
             'libANGLE/renderer/d3d/d3d11/shaders/compiled/passthroughrgba3di11ps.h',
             'libANGLE/renderer/d3d/d3d11/shaders/compiled/passthroughrgba3dui11ps.h',
+            'libANGLE/renderer/d3d/d3d11/shaders/compiled/resolvecolor2dps.h',
             'libANGLE/renderer/d3d/d3d11/shaders/compiled/resolvedepth11_ps.h',
             'libANGLE/renderer/d3d/d3d11/shaders/compiled/resolvedepthstencil11_ps.h',
             'libANGLE/renderer/d3d/d3d11/shaders/compiled/resolvedepthstencil11_vs.h',
